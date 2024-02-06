@@ -1,0 +1,31 @@
+.search-input {
+    height: 30px; /* Adjust the height as needed */
+    width: 300px; /* Adjust the width as needed */
+  }
+  
+  .search-button {
+    height: 30px; /* Match the height of the search input */
+    margin-left: 5px; /* Add some space between the input and button */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  /* Navbar.css */
+.dropdown-item {
+  cursor: pointer;
+}
+.upload-icon-container {
+  margin-right: 100px; /* Adjust as needed */
+}
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000; /* Ensure it's above other content */
+  /* Additional styling as needed */
+}
+
+
+
+  
